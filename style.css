@@ -233,8 +233,18 @@ article p {
 	background-color: rgba(245, 245, 245, 0.888);
 }
 article h3 {
+	clear: both;
 	font-family: serif;
 	color: yellow;
+	background-color: #000000;
+	width: fit-content;
+	height: 30px;
+}
+figure.gazo{
+	float: left;
+	padding-right: 0px;
+	color: yellow;
+	background-color: #000000;
 }
 .blank {
 	margin: 500px 20px;

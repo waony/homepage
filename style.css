@@ -1,4 +1,4 @@
-@charset "UTF-8";
+charset "UTF-8";
 
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
@@ -133,7 +133,7 @@ footer {
 }
 
 #sidebar-toggle {
-    display: none;
+    display: block;
     position: fixed;
     top: 10px;
     left: 10px;
@@ -194,10 +194,6 @@ footer {
 
     article {
         padding: 20px;
-    }
-
-    #sidebar-toggle {
-        display: block;
     }
 
     main.wrapper {

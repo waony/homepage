@@ -65,7 +65,7 @@ main.wrapper {
     flex-wrap: wrap;
 }
 
-main .content {
+main.content {
     flex: 1;
     min-width: 200px;
 }

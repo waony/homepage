@@ -1,3 +1,3 @@
 # homepage
 waonyのホームページ
-初めてのHTML,CSSの練習として作成した。
+初めてのHTML,CSS,JavaScriptの練習として作成した。

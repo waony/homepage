@@ -139,7 +139,7 @@ footer {
     position: fixed;
     top: 10px;
     left: 10px;
-    background-color: #ffffff00;
+    background-color: transparent;
     color: black;
     border: none;
     padding: 10px;

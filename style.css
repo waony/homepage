@@ -40,6 +40,9 @@
 
 #sidebar-toggle {
     display: none;
+    position: fixed;
+    top: 10px;
+    left: 10px;
     background-color: #007aff;
     color: white;
     border: none;
@@ -47,8 +50,7 @@
     border-radius: 5px;
     font-size: 1.2rem;
     cursor: pointer;
-    margin: 10px;
-}
+    z-index: 1000; /*ヘッダーの前に*/
 
 @media screen and (max-width: 768px) {
     #sidebar-toggle {
